@@ -1,0 +1,12 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "main": "logger.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Reusable Log() utility for Node.js/Express projects",
+  "dependencies": {
+    "axios": "^1.15.2"
+  }
+}
